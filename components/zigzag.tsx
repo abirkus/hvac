@@ -52,7 +52,7 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className=" text-xl text-green-500 mb-2">
                     Quality Comfort, Quick and Affordable
                   </div>
                   <h3 className="h3 mb-3">Heating Services</h3>
@@ -120,7 +120,7 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className=" text-xl text-green-500 mb-2">
                     Cool Comfort, Fair Price
                   </div>
                   <h3 className="h3 mb-3">Cooling Services</h3>
@@ -190,7 +190,7 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className=" text-xl text-green-500 mb-2">
                     Efficient Service, Efficient Savings
                   </div>
                   <h3 className="h3 mb-3">Ventilation and Ductwork Services</h3>
@@ -262,7 +262,7 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className=" text-xl text-green-500 mb-2">
                     Fast Fixes, Fair Prices
                   </div>
                   <h3 className="h3 mb-3">Additional Services</h3>
