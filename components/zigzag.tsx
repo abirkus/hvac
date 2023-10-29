@@ -61,7 +61,8 @@ export default function Zigzag() {
                     warm and comfortable, especially during the colder seasons.
                     Whether you are in need of a new furnace installation, a
                     replacement, or routine maintenance, our team is here to
-                    assist.
+                    assist. We work with you to find the optimal heating
+                    solution.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -72,7 +73,10 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Furnace Installation and Replacement</span>
+                      <span>
+                        Installation and Replacement – forced air (furnaces) ,
+                        heat pumps, boilers, tankless water heaters
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -82,7 +86,10 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Heating System Repair</span>
+                      <span>
+                        Heating System Repair – furnaces, heat pumps, boilers,
+                        and heaters
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -92,7 +99,11 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Heating Maintenance</span>
+                      <span>
+                        Heating System Maintenance – full tune ups of any
+                        system, heat exchanger descaling, and full system
+                        testing
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -125,13 +136,12 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">Cooling Services</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    At our company, we are committed to offering top-notch
-                    cooling services that ensure your space remains refreshing
-                    and comfortable throughout the hotter seasons. Our approach
-                    prioritizes energy efficiency and reliability, ensuring that
-                    your cooling system serves you optimally when you need it
-                    the most. Choose our cooling services for a hassle-free and
-                    comfortable summer season.
+                    We make sure our cooling solutions fit your need to make
+                    your space feel refreshing and comfortable throughout the
+                    hotter seasons. Our approach prioritizes energy efficiency
+                    and reliability, ensuring that your cooling system serves
+                    you optimally when you need it the most. Choose our cooling
+                    services for a hassle-free and comfortable summer season.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -142,7 +152,11 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Air Conditioning Installation and Replacement</span>
+                      <span>
+                        Air Conditioning Installation and Replacement – we
+                        install and replace all units including rooftops units
+                        and air conditioning
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -152,7 +166,10 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Air Conditioning Repair</span>
+                      <span>
+                        Air Conditioning Repair – leak tests and repairs, pumps,
+                        compressors
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -162,7 +179,11 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Air Conditioning Maintenance</span>
+                      <span>
+                        Air Conditioning Maintenance – system testing,
+                        recharging, conversion of old style R22 freon units to
+                        new standards
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -193,17 +214,11 @@ export default function Zigzag() {
                   <div className=" text-xl text-green-500 mb-2">
                     Efficient Service, Efficient Savings
                   </div>
-                  <h3 className="h3 mb-3">Ventilation and Ductwork Services</h3>
+                  <h3 className="h3 mb-3">Home Comfort Solutions</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Our Ventilation and Ductwork Services are crafted to enhance
-                    the air quality and circulation within your home or business
-                    space. We provide a comprehensive range of solutions,
-                    including professional duct cleaning to remove contaminants
-                    and promote healthier air, as well as duct sealing and
-                    repair to optimize the efficiency of your HVAC system. Our
-                    technicians are trained to identify and rectify any issues
-                    in your ventilation system, ensuring a balanced airflow and
-                    improved indoor air quality.
+                    We strive to make your home as comfortable as possible at
+                    all times. We offer a variety of other solutions that will
+                    make your home cozy all year round.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -214,7 +229,10 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duct Cleaning</span>
+                      <span>
+                        Radiant Heating – we install and repair radiant heated
+                        floors, new and old style radiators, and boilers
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -224,7 +242,10 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duct Sealing and Repair</span>
+                      <span>
+                        Humidity control – installation and repair of
+                        humidifiers and dehumidifiers in your home
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -234,7 +255,36 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Ventilation Solutions</span>
+                      <span>
+                        Carbon Monoxide testing – testing to make sure your home
+                        is free of dangerous gases
+                      </span>
+                    </li>
+                    <li className="flex items-center">
+                      <svg
+                        className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                        viewBox="0 0 12 12"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>
+                        Air Cleaners – we offer UV and plasma cleaning, as well
+                        as ventilation cleaning
+                      </span>
+                    </li>
+                    <li className="flex items-center">
+                      <svg
+                        className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                        viewBox="0 0 12 12"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>
+                        Boilers and tankless water heaters – repair and
+                        installation
+                      </span>
                     </li>
                   </ul>
                 </div>
